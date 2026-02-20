@@ -1,71 +1,99 @@
 <div align="center">
 
-# 👨‍💻 Florentino Desarrollador
+# 👨‍💻 Florentino | Senior Developer
 
-### Machine Learning Engineer | Data Scientist | Full Stack Developer
+### 🤖 Machine Learning Engineer | 📊 Data Scientist | 🌐 Full Stack Developer | 🔧 Automation Specialist
 
-[![GitHub](https://img.shields.io/badge/GitHub-florentinodev-181717?style=for-the-badge&logo=github)](https://github.com/florentinodev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Florentino-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/florentinodev)
-[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail)](mailto:florentinodev@example.com)
+**Ingeniero en Informática - Chile 🇨🇱**
+
+[![GitHub](https://img.shields.io/badge/GitHub-florentinodev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/florentinodev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Florentino-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/florentinodev)
+[![Email](https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:florentinodev@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/florentinodev)
 
 ---
+
+### 🚀 Especialista en: ML • Computer Vision • Data Science • Automatización • Web Scraping • APIs
 
 </div>
 
 ## 🎯 Acerca de mí
 
-Soy un **Ingeniero en Informática** apasionado por la **Inteligencia Artificial**, **Ciencia de Datos** y el **Desarrollo de Aplicaciones**. Con experiencia en **Machine Learning**, **Computer Vision** y **Análisis de Datos**, he trabajado en proyectos que combinan tecnología avanzada con soluciones prácticas.
+Soy un **Ingeniero en Informática** con experiencia en **Inteligencia Artificial**, **Ciencia de Datos** y **Automatización Empresarial**.
 
-Ubicado en 🇨🇱 **Chile**, continúo expandiendo mis habilidades en Deep Learning, Cloud Computing y arquitecturas escalables.
+Especializado en:
+- 🤖 **Machine Learning & Deep Learning** - Modelos predictivos, clasificación, análisis avanzado
+- 👁️ **Computer Vision** - YOLOv8, OpenCV, detección y segmentación de objetos
+- 📊 **Data Science** - Análisis exploratorio, pipelines de datos, visualización
+- 🔧 **Automatización & Web Scraping** - Selenium, RPA, scrapers inteligentes
+- 🌐 **Desarrollo Web** - APIs REST, Streamlit, aplicaciones interactivas
+- ☁️ **Cloud & DevOps** - AWS, Google Cloud, Docker, deployment escalable
+
+Con experiencia en proyectos que combinan tecnología avanzada con soluciones prácticas de alto impacto empresarial.
 
 ---
 
-## 💡 Especialidades
+## 💡 Áreas de Expertise
 
 <div align="center">
 
 | Área | Descripción |
 |------|------------|
-| 🤖 **Machine Learning** | Modelos predictivos, clasificación, regresión |
-| 👁️ **Computer Vision** | Detección de objetos, segmentación, YOLOv8 |
-| 📊 **Data Science** | Análisis exploratorio, visualización, estadística |
-| 🌐 **Web Development** | APIs REST, Streamlit, aplicaciones interactivas |
-| ☁️ **Cloud & DevOps** | Deployment, containerización, automatización |
+| 🤖 **Machine Learning & IA** | Modelos predictivos, clasificación, regresión, redes neuronales |
+| 👁️ **Computer Vision** | YOLOv8, detección de objetos, segmentación, análisis de imágenes |
+| 📊 **Data Science** | ETL, análisis exploratorio, visualización, estadística avanzada |
+| 🔧 **Automatización & RPA** | Selenium, web scraping, automatización de procesos empresariales |
+| 🌐 **Desarrollo Web** | REST APIs, Streamlit, FastAPI, aplicaciones interactivas |
+| ☁️ **Cloud & DevOps** | AWS, Google Cloud, Docker, CI/CD, deployment escalable |
+| 💾 **Bases de Datos** | PostgreSQL, MongoDB, optimización de queries, diseño de esquemas |
 
 </div>
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico Completo
 
 ### 📌 Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Bash/Shell](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-### 🧠 Machine Learning & Data Science
+### 🤖 Machine Learning & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
-### 🚀 Frameworks & Herramientas
+### 🔧 Automatización & Web Scraping
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/BeautifulSoup-004B87?style=flat-square&logo=python&logoColor=white)
+![Scrapy](https://img.shields.io/badge/Scrapy-0099CC?style=flat-square&logo=scrapy&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-FF6B00?style=flat-square&logo=python&logoColor=white)
+
+### 🌐 Web & APIs
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+### 🛠️ DevOps & Herramientas
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### ☁️ Plataformas Cloud
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+### ☁️ Plataformas Cloud & BDD
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
@@ -114,12 +142,13 @@ Modelo de aprendizaje automático para predicción de diagnósticos usando datos
 
 ---
 
-## 🎓 Actualmente Aprendiendo
+## 🎓 Actualmente Aprendiendo & Mejorando
 
-- 🧠 **Deep Learning Avanzado** - Redes neuronales convolucionales y recurrentes
-- ☁️ **Cloud Architecture** - Deployment escalable en AWS y Google Cloud
-- 🔄 **MLOps** - Pipelines de ML, monitoreo y versionado de modelos
-- ⚡ **Performance Optimization** - Optimización de modelos y APIs
+- 🧠 **Deep Learning Avanzado** - Transformer models, LLMs, fine-tuning
+- ☁️ **Cloud Architecture** - Kubernetes, microservicios, serverless
+- 🔄 **MLOps & Monitoring** - Pipelines de ML, monitoring en producción
+- 🤝 **Automatización Empresarial** - RPA avanzada, procesos complejos
+- ⚡ **Performance Optimization** - Optimización de ML models, APIs y bases de datos
 
 ---
 
