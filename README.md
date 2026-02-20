@@ -154,7 +154,7 @@ Modelo de aprendizaje automático para predicción de diagnósticos usando datos
 
 ## 📊 Mi Actividad en GitHub
 
-![Snake animation](https://github.com/florentinodev/florentinodev/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/florentinodev/florentinodev/main/github-contribution-grid-snake.svg)
 
 ---
 
