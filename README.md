@@ -74,7 +74,8 @@ Predicción de GRD con Machine Learning en datos hospitalarios
 
 - **LinkedIn**: [linkedin.com/in/florentinodev](https://linkedin.com/in/florentinodev)
 - **GitHub**: [github.com/florentinodev](https://github.com/florentinodev)
-- **Email**: tu-email@example.com
+- **Email**: junior.flk@gmail.com
+- **Email Institucional**: f.vargaspea1@uandresbello.edu
 
 ---
 
