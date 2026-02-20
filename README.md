@@ -1,8 +1,10 @@
-# 👨‍💻 Florentino Vargas Peña - Senior Developer
+# 👨‍💻 Florentino Vargas Peña - Senior Developer & ML Engineer
 
 > **Machine Learning Engineer | Data Scientist | Automation Specialist**
 >
 > Passionate about building intelligent systems, automating workflows, and solving complex problems with code.
+>
+> Open to job opportunities! 🚀
 
 ---
 
