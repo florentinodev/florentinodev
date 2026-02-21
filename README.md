@@ -1,10 +1,14 @@
+<!-- Profile README - Florentino Dev -->
+
 # 👨‍💻 Florentino Vargas Peña - Senior Developer & ML Engineer
 
 > **Machine Learning Engineer | Data Scientist | Automation Specialist**
 >
 > Passionate about building intelligent systems, automating workflows, and solving complex problems with code.
 >
-> Open to job opportunities! 🚀
+> 🚀 **Open to job opportunities!** Hire me for ML, Data Science, or Automation projects.
+>
+> 📧 Contact: [junior.flk@gmail.com](mailto:junior.flk@gmail.com) | [f.vargaspea1@uandresbello.edu](mailto:f.vargaspea1@uandresbello.edu)
 
 ---
 
