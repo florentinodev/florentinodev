@@ -118,7 +118,6 @@ Machine learning models for healthcare data classification and prediction
 - Kubernetes orchestration
 - GraphQL & Modern API design
 - Large Language Models (LLMs)
-
 ---
 
 <div align="center">
