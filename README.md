@@ -1,129 +1,109 @@
-<!-- Profile README - Florentino Dev -->
+# 👋 Hola, soy Florentino Dev
 
-# 👨‍💻 Florentino Vargas Peña - Senior Developer & ML Engineer
-
-> **Machine Learning Engineer | Data Scientist | Automation Specialist**
->
-> Passionate about building intelligent systems, automating workflows, and solving complex problems with code.
->
-> 🚀 **Open to job opportunities!** Hire me for ML, Data Science, or Automation projects.
->
-> 📧 Contact: [junior.flk@gmail.com](mailto:junior.flk@gmail.com) | [f.vargaspea1@uandresbello.edu](mailto:f.vargaspea1@uandresbello.edu)
+**Full Stack Developer | Backend Specialist | Problem Solver**
 
 ---
 
-## 🎯 Core Expertise
+## 🎯 Sobre mí
 
-| Area | Technologies |
-|------|--------------|
-| 🤖 **Machine Learning & AI** | TensorFlow, Scikit-learn, PyTorch, OpenAI |
-| 👁️ **Computer Vision** | YOLOv8, OpenCV, YOLO Models, Image Processing |
-| 📊 **Data Science & Analytics** | Pandas, NumPy, Matplotlib, Seaborn, Plotly |
-| 🔧 **Automation & RPA** | Selenium, Java, BeautifulSoup, Scrapy, Python |
-| 🌐 **Web Development** | Streamlit, FastAPI, Flask, Django, REST APIs |
-| ☁️ **Cloud & DevOps** | AWS, Google Cloud, Docker, Kubernetes, CI/CD |
+Soy un desarrollador apasionado por crear soluciones tecnológicas robustas y escalables. Especializado en backend y desarrollo full stack, con experiencia en arquitectura de sistemas, APIs REST y optimización de rendimiento.
+
+🔍 **Siempre buscando:** Proyectos desafiantes que me permitan crecer, colaborar en código abierto, y aplicar mejores prácticas de desarrollo.
 
 ---
 
-## 🛠️ Technical Stack
+## 💻 Tech Stack
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3.9+-blue?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/Java-11+-orange?style=flat-square&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=flat-square&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-316192?style=flat-square&logo=postgresql)
-![Bash](https://img.shields.io/badge/Bash-Linux-black?style=flat-square&logo=gnu-bash)
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### **Machine Learning & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange?style=flat-square&logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.0+-blue?style=flat-square&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-1.3+-purple?style=flat-square&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-1.20+-blue?style=flat-square&logo=numpy)
-![OpenCV](https://img.shields.io/badge/OpenCV-4.5+-green?style=flat-square&logo=opencv)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-Detection-blueviolet?style=flat-square)
+### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### **Automation & Web Scraping**
-![Selenium](https://img.shields.io/badge/Selenium-Automation-green?style=flat-square&logo=selenium)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-Scraping-lightblue?style=flat-square)
-![Scrapy](https://img.shields.io/badge/Scrapy-Web--Framework-009639?style=flat-square&logo=scrapy)
+### **Base de Datos**
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Web Frameworks**
-![Streamlit](https://img.shields.io/badge/Streamlit-App--Development-red?style=flat-square&logo=streamlit)
-![FastAPI](https://img.shields.io/badge/FastAPI-APIs-009688?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-Microframework-black?style=flat-square&logo=flask)
-![Django](https://img.shields.io/badge/Django-Web--Framework-092E20?style=flat-square&logo=django)
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-GCP-4285F4?style=flat-square&logo=google-cloud)
-![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL-13AA52?style=flat-square&logo=mongodb)
-
----
-
-## 🔥 Featured Projects
-
-### 🎯 **Fire Prediction Chile**
-Intelligent forest fire prediction system using ML and real-time weather data
-- **Stack:** Python, TensorFlow, Streamlit, AWS
-- **Features:** Real-time predictions, Risk assessment, Historical data tracking
-- **Repository:** [fire-prediction-chile](https://github.com/florentinodev/fire-prediction-chile)
-
-### 🦜 **Proyecto Tórtolas**
-Object detection system for wildlife monitoring using YOLOv8
-- **Stack:** Python, YOLOv8, OpenCV, Computer Vision
-- **Features:** Real-time detection, Video processing, Model training
-- **Repository:** [Proyecto_Tórtolas](https://github.com/florentinodev/Proyecto_Tórtolas)
-
-### 📈 **Modelos de Clasificación**
-Machine learning models for healthcare data classification and prediction
-- **Stack:** Python, Scikit-learn, Pandas, Data Science
-- **Features:** Data preprocessing, Model evaluation, Predictive analytics
-- **Repository:** [Modelos_De_Clasificación](https://github.com/florentinodev/Modelos_De_Clasificacion)
+### **Herramientas & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=florentinodev&show_icons=true&theme=tokyonight)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=florentinodev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=florentinodev&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🌍 Let's Connect
+## 🚀 Proyectos Destacados
 
-| Contact | Link |
-|---------|------|
-| 📧 **Email (Professional)** | [f.vargaspea1@uandresbello.edu](mailto:f.vargaspea1@uandresbello.edu) |
-| 📧 **Email (Personal)** | [junior.flk@gmail.com](mailto:junior.flk@gmail.com) |
-| 📍 **Location** | Chile 🇨🇱 |
-| 💼 **Availability** | Open to Remote / On-site opportunities |
+Puedes explorar mis proyectos principales en este perfil. Algunos incluyen:
 
----
-
-## 💡 What I Do
-
-- ✨ Build intelligent ML models for real-world problems
-- 🤖 Automate repetitive tasks with Python, Java, and Selenium
-- 📊 Transform raw data into actionable insights
-- 🎨 Create user-friendly web applications and dashboards
-- ☁️ Deploy scalable solutions on cloud platforms (AWS, GCP)
-- 🔍 Develop computer vision solutions for object detection and image analysis
+- **Aplicaciones Full Stack** con arquitectura escalable
+- **APIs REST** optimizadas con buenas prácticas
+- **Soluciones Backend** de alto rendimiento
 
 ---
 
-## 🎓 Currently Learning
+## 🎓 Actualmente Aprendiendo
 
-- Advanced Deep Learning architectures
-- Kubernetes orchestration
-- GraphQL & Modern API design
-- Large Language Models (LLMs)
+- Arquitectura de Microservicios
+- Cloud Computing (AWS/Google Cloud)
+- Machine Learning & Data Science
+
+---
+
+## 📈 Estadísticas de Contribución
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=florentinodev&theme=tokyonight&hide_border=true)](https://github.com/florentinodev)
+
+</div>
+
+---
+
+## 🤝 Conéctate Conmigo
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=web&logoColor=white)](https://tu-portfolio.com)
+
+</div>
+
+---
+
+## 💡 Filosofía de Código
+
+```
+"El mejor código no es el más complejo, 
+sino el que es fácil de entender, mantener y escalar."
+```
+
 ---
 
 <div align="center">
 
-**⭐ If you like my projects, consider giving them a star!**
+**¡Gracias por visitar mi perfil!** 🚀
 
-![Visitors](https://komarev.com/ghpvc/?username=florentinodev&color=blue)
+*Siempre abierto a nuevas oportunidades y colaboraciones*
 
 </div>
